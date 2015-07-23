@@ -1,0 +1,14 @@
+# Site settings
+title: Jekyll Hook Test
+email: tamouse@gmail.com
+description: >
+  Testing the new Jekyll 3 Hooks.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: tamouse
+github_username:  tamouse
+
+# Build settings
+markdown: kramdown
+exclude:
+  - README.md
