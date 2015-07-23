@@ -14,3 +14,9 @@ simple pluging with a couple of hooks in
 
 I'm going to continue experimenting with this, but I declare this a
 success!!
+
+
+## Dependencies
+
+Requires Jekyll 3:
+<https://github.com/jekyll/jekyll/releases/tag/v3.0.0.pre.beta8>
